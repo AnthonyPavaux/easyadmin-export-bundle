@@ -1,12 +1,11 @@
 {
-  "name": "kreyu/easyadmin-export-bundle",
+  "name": "AnthonyPavaux/easyadmin-export-bundle",
   "description": "Generate spreadsheets for entities managed by the EasyAdmin.",
   "type": "symfony-bundle",
   "license": "MIT",
   "authors": [
     {
-      "name": "Sebastian Wróblewski",
-      "email": "kontakt@swroblewski.pl"
+      "name": "Anthony Pavaux",
     }
   ],
   "require": {
